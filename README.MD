@@ -89,7 +89,8 @@ aws glacier get-job-output --account-id 548523034351 --vault-name myvault --job-
 ## Notes
 
 ### Inspiration
-[https://github.com/josser/node-glacier-uploader]: https://github.com/josser/node-glacier-uploader
+* [https://github.com/josser/node-glacier-uploader](https://github.com/josser/node-glacier-uploader)
+
 
 ### Support the development of this project
-[Buy me a coffee]: https://www.buymeacoffee.com/laurensdhondt
+* [Buy me a coffee](https://www.buymeacoffee.com/laurensdhondt)
