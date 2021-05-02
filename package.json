@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.840.0",
-    "yargs": "^16.2.0"
+    "yargs": "^17.0.0"
   }
 }
